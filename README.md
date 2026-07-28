@@ -64,7 +64,7 @@ Cada capítulo sigue la misma idea:
 
 1. [¿Por qué existe ROS 2?](docs/01-por-que-existe-ros2.md)
 
-2. [Entrada 02 - Workspace](02-workspace.md)
+2. [Entrada 02 - Workspace](docs/02-workspace.md)
 
 ---
 
