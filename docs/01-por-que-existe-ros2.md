@@ -89,7 +89,7 @@ Programa de navegación
 Programa de teleoperación
 ```
 
-Más adelante aprendi que estos programas reciben el nombre de **Nodes**.
+Más adelante aprendí que estos programas reciben el nombre de **Nodes**.
 
 Por ahora, la idea importante es esta:
 
