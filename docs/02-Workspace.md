@@ -96,13 +96,9 @@ Después de trabajar un tiempo con ROS 2, mi Workspace tiene la siguiente estruc
 ```text
 ros2_ws/
 ├── build/
-├── docs/
 ├── install/
 ├── log/
 ├── src/
-├── .git/
-├── README.md
-└── .gitignore
 ```
 
 No todas estas carpetas las creé yo.
@@ -144,22 +140,6 @@ Tampoco debemos modificar esta carpeta manualmente.
 Aquí ROS 2 guarda los registros de cada compilación.
 
 Si ocurre algún error durante la construcción del proyecto, esta carpeta suele contener información útil para encontrar la causa.
-
----
-
-## docs/
-
-Esta carpeta no pertenece a ROS 2.
-
-La he creado para documentar mi proceso de aprendizaje.
-
----
-
-## README.md
-
-Es la portada del repositorio.
-
-Describe el propósito del proyecto y sirve como punto de entrada para cualquier persona que quiera seguir esta bitácora.
 
 ---
 

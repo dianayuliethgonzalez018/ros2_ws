@@ -29,7 +29,7 @@ Cada capítulo sigue la misma idea:
 ### Fundamentos
 
 - [x] 01 - ¿Por qué existe ROS 2?
-- [ ] 02 - Workspace
+- [x] 02 - Workspace
 - [ ] 03 - Package
 - [ ] 04 - Node
 - [ ] 05 - Topic
