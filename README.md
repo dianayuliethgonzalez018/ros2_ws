@@ -18,9 +18,7 @@ Cada capítulo sigue la misma idea:
 
 - Entender qué problema vamos a resolver.
 - Explicar el concepto sin asumir conocimientos previos.
-- Aplicarlo inmediatamente con una práctica.
 - Documentar lo aprendido.
-- Continuar con el siguiente paso.
 
 ---
 
@@ -30,7 +28,7 @@ Cada capítulo sigue la misma idea:
 
 - [x] 01 - ¿Por qué existe ROS 2?
 - [x] 02 - Workspace
-- [ ] 03 - Package
+- [x] 03 - Package
 - [ ] 04 - Node
 - [ ] 05 - Topic
 - [ ] 06 - Message y Message Type
@@ -66,6 +64,7 @@ Cada capítulo sigue la misma idea:
 
 2. [Entrada 02 - Workspace](docs/02-Workspace.md)
 
+3. [Entrada 03 - Packages](docs/03-Packages.md)
 ---
 
 ## Entorno utilizado
@@ -73,4 +72,3 @@ Cada capítulo sigue la misma idea:
 - Ubuntu
 - ROS 2 Humble
 - TurtleBot3 Burger
-- Python

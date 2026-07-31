@@ -244,3 +244,5 @@ La siguiente pregunta es:
 **¿Cómo organiza ROS 2 ese código?**
 
 En la siguiente entrada conoceremos el concepto de **Package** y crearemos el primero.
+
+[Entrada 03 - Packages](docs/03-Packages.md)

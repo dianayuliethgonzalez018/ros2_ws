@@ -153,4 +153,4 @@ Ahora que entiendo el problema, la siguiente pregunta es:
 
 En la siguiente entrada conoceremos el concepto de **Workspace**.
 
-[Entrada 02 - Workspace](02-workspace.md)
+[Entrada 02 - Packages](docs/02-Workspace.md)
